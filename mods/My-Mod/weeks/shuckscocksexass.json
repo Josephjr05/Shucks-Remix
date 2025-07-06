@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"shucks",
+			"bf",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "",
+	"weekCharacters": [
+		"bf",
+		"nene",
+		"pico-player"
+	],
+	"storyName": "shucks but like the fnf mix",
+	"weekName": "shucks fnf mix",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

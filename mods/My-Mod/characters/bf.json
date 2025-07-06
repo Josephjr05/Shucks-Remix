@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance0"
+		},
+		{
+			"offsets": [42, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking0"
+		},
+		{
+			"offsets": [7, -11],
+			"loop": false,
+			"fps": 20,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge0"
+		},
+		{
+			"offsets": [-26, 57],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BF NOTE UP ALT0"
+		},
+		{
+			"offsets": [43, -114],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF NOTE DOWN ALT0"
+		},
+		{
+			"offsets": [38, 86],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey-alt",
+			"indices": [],
+			"name": "BF HEY ALT0"
+		},
+		{
+			"offsets": [119, -17],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "BF idle dance alt0"
+		},
+		{
+			"offsets": [0, 54],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [-24, -74],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [53, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-37, -4],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-23, -43],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF NOTE LEFT ALT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [20, -15],
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "BF NOTE RIGHT ALT0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [40, 320],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
