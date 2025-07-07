@@ -546,19 +546,19 @@
 		},
 		{
 			"sectionNotes": [
-				[50461.5384615385, 2, 0],
-				[50461.5384615385, 0, 0],
-				[50923.076923077, 3, 0],
-				[50923.076923077, 2, 0],
-				[51384.6153846154, 0, 0],
-				[51384.6153846154, 2, 0]
+				[50461.5384615385, 2, 0, "No Animation"],
+				[50461.5384615385, 0, 0, "No Animation"],
+				[50923.076923077, 3, 0, "No Animation"],
+				[50923.076923077, 2, 0, "No Animation"],
+				[51384.6153846154, 0, 0, "No Animation"],
+				[51384.6153846154, 2, 0, "No Animation"]
 			],
 			"sectionBeats": 4,
-			"gfSection": false,
+			"gfSection": true,
 			"altAnim": false,
 			"bpm": 195,
 			"changeBPM": false,
-			"mustHitSection": true
+			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
@@ -591,11 +591,11 @@
 				[53846.1538461539, 3, 0]
 			],
 			"sectionBeats": 4,
-			"gfSection": false,
+			"gfSection": true,
 			"altAnim": false,
 			"bpm": 195,
 			"changeBPM": false,
-			"mustHitSection": true
+			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
@@ -2672,13 +2672,110 @@
 			"mustHitSection": false
 		}
 	],
-	"events": [],
+	"events": [
+		[
+			50384.6153846154,
+			[
+				["Play Sound", "shot1", "0.1"]
+			]
+		],
+		[
+			50461.5384615385,
+			[
+				["Play Animation", "attack 1", "BF"]
+			]
+		],
+		[
+			50846.1538461539,
+			[
+				["Play Sound", "shot4", "0.1"]
+			]
+		],
+		[
+			50923.076923077,
+			[
+				["Play Animation", "attack 2", "BF"]
+			]
+		],
+		[
+			51307.6923076923,
+			[
+				["Play Sound", "shot1", "0.1"]
+			]
+		],
+		[
+			51384.6153846154,
+			[
+				["Play Animation", "attack 1", "BF"]
+			]
+		],
+		[
+			118076.923076923,
+			[
+				["Play Sound", "shot1", "0.1"]
+			]
+		],
+		[
+			118153.846153846,
+			[
+				["Play Animation", "attack 1", "BF"]
+			]
+		],
+		[
+			119307.692307693,
+			[
+				["Play Sound", "shot4", "0.1"]
+			]
+		],
+		[
+			119384.615384616,
+			[
+				["Play Animation", "attack 2", "BF"]
+			]
+		],
+		[
+			120538.461538462,
+			[
+				["Play Sound", "shot1", "0.1"]
+			]
+		],
+		[
+			120615.384615385,
+			[
+				["Play Animation", "attack 1", "BF"]
+			]
+		],
+		[
+			174076.923076923,
+			[
+				["Play Sound", "shot1", "0.1"]
+			]
+		],
+		[
+			174153.846153846,
+			[
+				["Play Animation", "attack 1", "BF"]
+			]
+		],
+		[
+			174384.615384615,
+			[
+				["Play Sound", "shot4", "0.1"]
+			]
+		],
+		[
+			174461.538461538,
+			[
+				["Play Animation", "attack 2", "BF"]
+			]
+		]
+	],
 	"player2": "bf",
 	"gameOverChar": "pico-dead",
 	"song": "shucks",
 	"needsVoices": true,
 	"stage": "shucks",
 	"format": "psych_v1_convert",
-	"speed": 3,
+	"speed": 3.2,
 	"bpm": 195
 }
