@@ -554,11 +554,11 @@
 				[51384.6153846154, 2, 0, "No Animation"]
 			],
 			"sectionBeats": 4,
-			"gfSection": true,
+			"gfSection": false,
 			"altAnim": false,
 			"bpm": 195,
 			"changeBPM": false,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -591,11 +591,11 @@
 				[53846.1538461539, 3, 0]
 			],
 			"sectionBeats": 4,
-			"gfSection": true,
+			"gfSection": false,
 			"altAnim": false,
 			"bpm": 195,
 			"changeBPM": false,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -2858,99 +2858,137 @@
 	],
 	"events": [
 		[
+			50153.8461538462,
+			[
+				["Camera Follow Pos", "400", "220"]
+			]
+		],
+		[
 			50384.6153846154,
 			[
-				["Play Sound", "shot1", "0.1"]
+				["Play Sound", "shot1", "0.6"]
 			]
 		],
 		[
 			50461.5384615385,
 			[
-				["Play Animation", "attack 1", "BF"]
+				["Play Animation", "attack 1", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[
 			50846.1538461539,
 			[
-				["Play Sound", "shot4", "0.1"]
+				["Play Sound", "shot4", "0.6"]
 			]
 		],
 		[
 			50923.076923077,
 			[
-				["Play Animation", "attack 2", "BF"]
+				["Play Animation", "attack 2", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[
 			51307.6923076923,
 			[
-				["Play Sound", "shot1", "0.1"]
+				["Play Sound", "shot1", "0.6"]
 			]
 		],
 		[
 			51384.6153846154,
 			[
-				["Play Animation", "attack 1", "BF"]
+				["Play Animation", "attack 1", "BF"],
+				["Play Animation", "dodge", "Dad"]
+			]
+		],
+		[
+			51692.3076923077,
+			[
+				["Camera Follow Pos", "", ""]
+			]
+		],
+		[
+			117846.153846154,
+			[
+				["Camera Follow Pos", "400", "220"]
 			]
 		],
 		[
 			118076.923076923,
 			[
-				["Play Sound", "shot1", "0.1"]
+				["Play Sound", "shot1", "0.6"]
 			]
 		],
 		[
-			118153.846153846,
+			118173.076923077,
 			[
-				["Play Animation", "attack 1", "BF"]
+				["Play Animation", "attack 1", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[
 			119307.692307693,
 			[
-				["Play Sound", "shot4", "0.1"]
+				["Play Sound", "shot4", "0.6"]
 			]
 		],
 		[
 			119384.615384616,
 			[
-				["Play Animation", "attack 2", "BF"]
+				["Play Animation", "attack 2", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[
 			120538.461538462,
 			[
-				["Play Sound", "shot1", "0.1"]
+				["Play Sound", "shot1", "0.6"]
 			]
 		],
 		[
 			120615.384615385,
 			[
-				["Play Animation", "attack 1", "BF"]
+				["Play Animation", "attack 1", "BF"],
+				["Play Animation", "dodge", "Dad"]
+			]
+		],
+		[
+			121615.384615385,
+			[
+				["Camera Follow Pos", "", ""]
+			]
+		],
+		[
+			173769.230769231,
+			[
+				["Camera Follow Pos", "400", "220"]
 			]
 		],
 		[
 			174076.923076923,
 			[
-				["Play Sound", "shot1", "0.1"]
+				["Play Sound", "shot1", "0.6"]
 			]
 		],
 		[
 			174153.846153846,
 			[
-				["Play Animation", "attack 1", "BF"]
+				["Play Animation", "attack 1", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[
 			174384.615384615,
 			[
-				["Play Sound", "shot4", "0.1"]
+				["Play Sound", "shot4", "0.6"]
 			]
 		],
 		[
 			174461.538461538,
 			[
-				["Play Animation", "attack 2", "BF"]
+				["Play Animation", "attack 2", "BF"],
+				["Play Animation", "dodge", "Dad"]
 			]
 		],
 		[

@@ -5,18 +5,18 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "pico",
-		"gf": "nene",
-		"dad": "bf"
+		"dad": "bf",
+		"gf": "nene"
 	},
+	"isPixelStage": false,
 	"boyfriend": [
 		1110,
 		-252
 	],
 	"girlfriend": [
-		553,
-		-331
+		538,
+		-354
 	],
-	"isPixelStage": false,
 	"camera_girlfriend": [
 		-50,
 		100
@@ -143,11 +143,11 @@
 		}
 	],
 	"defaultZoom": 0.7,
-	"directory": "",
 	"opponent": [
 		-84,
 		-272
 	],
+	"directory": "",
 	"camera_opponent": [
 		150,
 		-50

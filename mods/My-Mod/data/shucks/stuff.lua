@@ -69,5 +69,9 @@ function onStepHit()
       if curStep == 2524 then
             doTweenAlpha('Go', 'go', 0, 0.5, 'linear')
       end
+     if curStep == 1984 then -- I did me ME, ROWAN, (so proud of it)
+            callMethod('iconP2.changeIcon', {'nene'})
+            setHealthBarColors('#FA6992', '#5EF145')
+end
 end
             

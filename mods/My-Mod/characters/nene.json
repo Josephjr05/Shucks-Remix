@@ -1,131 +1,131 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "danceLeft",
-			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
-			"name": "Nene Idle0"
+			"fps": 24,
+			"name": "Nene Idle0",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "danceRight",
-			"indices": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
-			"name": "Nene Idle0"
+			"fps": 24,
+			"name": "Nene Idle0",
+			"indices": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
 		},
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "laughCutscene",
-			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11],
-			"name": "laughing nene0"
+			"fps": 24,
+			"name": "laughing nene0",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11, 7, 8, 9, 10, 11]
 		},
 		{
+			"loop": false,
 			"offsets": [0, 52],
-			"loop": false,
-			"fps": 24,
 			"anim": "raiseKnife",
-			"indices": [],
-			"name": "knife raise0"
+			"fps": 24,
+			"name": "knife raise0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-99, 52],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle-alt",
-			"indices": [],
-			"name": "knife high held0"
+			"fps": 24,
+			"name": "knife high held0",
+			"indices": []
 		},
 		{
-			"offsets": [-108, 59],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-108, 59],
 			"anim": "cheer",
-			"indices": [],
-			"name": "combo celebration 1 nene0"
+			"fps": 24,
+			"name": "combo celebration 1 nene0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 24,
 			"anim": "sad",
-			"indices": [],
-			"name": "laughing nene"
+			"fps": 24,
+			"name": "laughing nene",
+			"indices": []
 		},
 		{
-			"offsets": [-108, 59],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-108, 59],
 			"anim": "comboCheer",
-			"indices": [],
-			"name": "combo celebration 1 nene0"
+			"fps": 24,
+			"name": "combo celebration 1 nene0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-40, -20],
-			"loop": false,
-			"fps": 24,
 			"anim": "comboCheerHigh",
-			"indices": [0, 1, 2, 3, 4, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6],
-			"name": "fawn nene0"
+			"fps": 24,
+			"name": "fawn nene0",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6]
 		},
 		{
+			"loop": false,
 			"offsets": [-108, 59],
-			"loop": false,
-			"fps": 24,
 			"anim": "drop70",
-			"indices": [],
-			"name": "combo celebration 1 nene0"
+			"fps": 24,
+			"name": "combo celebration 1 nene0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-39, 51],
-			"loop": false,
-			"fps": 24,
 			"anim": "lowerKnife",
-			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-			"name": "knife lower0"
+			"fps": 24,
+			"name": "knife lower0",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		},
 		{
-			"loop": false,
 			"offsets": [25, -4],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Nene Left",
-			"indices": []
+			"indices": [],
+			"name": "Nene Left"
 		},
 		{
-			"loop": false,
 			"offsets": [-66, -19],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Nene Right",
-			"indices": []
+			"indices": [],
+			"name": "Nene Right"
 		},
 		{
-			"loop": false,
 			"offsets": [-91, 3],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Nene Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nene Down"
 		},
 		{
-			"loop": false,
 			"offsets": [-13, 9],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Nene Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nene Up"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/nene",
 	"position": [20, -10],
-	"healthicon": "nene-icon",
+	"healthicon": "nene",
 	"flip_x": false,
 	"healthbar_colors": [250, 105, 146],
 	"camera_position": [100, -10],
