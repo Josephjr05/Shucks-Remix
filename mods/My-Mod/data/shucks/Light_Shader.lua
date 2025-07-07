@@ -85,3 +85,11 @@ function updateFrameInfo(s)
         getProperty(s..'.frame.uv.height')
     })
 end
+
+function onStepHit()
+    if not shadersEnabled then return end
+
+	if curStep == 2290 then
+	    removeSpriteShader('dad')
+	end
+end
