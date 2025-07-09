@@ -74,4 +74,7 @@ function onStepHit()
             setHealthBarColors('#FA6992', '#5EF145')
 end
 end
-            
+     function onStartCountdown()
+                triggerEvent('BLACKOUT', 1, 0.01)
+                     
+end
