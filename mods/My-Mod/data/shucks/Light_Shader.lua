@@ -89,7 +89,7 @@ end
 function onStepHit()
     if not shadersEnabled then return end
 
-	if curStep == 2290 then
+	if curStep == 2525 then
 	    removeSpriteShader('dad')
 	end
 end

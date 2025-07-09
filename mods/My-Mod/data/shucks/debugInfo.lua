@@ -7,9 +7,14 @@ function onCreate()
     end
 end
 
-function onUpdate()
-    if showDebugInfo then
-        screenCenter('debugInfo', 'x')
-        setTextString('debugInfo', 'current Step: '.. curStep ..'\ncurrent Beat: '.. curBeat)
-    end
+function onUpdatePost()
+    local camPosX = getProperty("camFollow.x")
+    local camPosY = getProperty("camFollow.y")
+
+    makeLuaText("camPosX", camPosX, 500, 10, 10)
+makeLuaText("camPosY", camPosY, 500, 50, 10)
+
+addLuaText("camPosX")
+addLuaText("camPosY")
+
 end
