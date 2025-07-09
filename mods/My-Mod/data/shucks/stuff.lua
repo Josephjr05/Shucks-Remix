@@ -73,8 +73,17 @@ function onStepHit()
             callMethod('iconP2.changeIcon', {'nene'})
             setHealthBarColors('#FA6992', '#5EF145')
 end
+      if curStep == 2272 then -- I did me ME, ROWAN, (so proud of it)
+            callMethod('iconP2.changeIcon', {'boyfriend icon'})
+            setHealthBarColors('#31B0D1', '#5EF145')
+end
+      if curStep == 2529 then -- I did me ME, ROWAN, (so proud of it)
+            callMethod('iconP2.changeIcon', {'boyfriend icon'})
+            setHealthBarColors('#31B0D1', '#5EF145')
+end
+
 end
      function onStartCountdown()
                 triggerEvent('BLACKOUT', 1, 0.01)
                      
-end
+end  
